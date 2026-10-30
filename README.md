@@ -63,7 +63,7 @@ Downloads are hosted on itch.io.
 
 AllWebApps checks for newer versions using version information hosted in this repository.
 
-When an update is available, the app directs you to the official itch.io page, where you can access the latest build.
+When an update is available, the app directs you here, where you can download the latest build.
 
 ## Disclaimer
 
