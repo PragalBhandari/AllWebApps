@@ -44,8 +44,7 @@ Get AllWebApps from its official itch.io page.
   <img src="https://img.shields.io/badge/Get%20AllWebApps-Download%20for%20Android-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
 </a>
 
-<br><br>
-
+<br>
 Downloads are hosted on itch.io.
 
 </div>
