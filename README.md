@@ -8,14 +8,14 @@ A simple Android app that lets you save multiple websites and access them from o
 
 <br>
 
-<a href="https://github.com/PragalBhandari/AllWebApps/releases/latest">
-  <img src="https://img.shields.io/badge/Download-Latest%20Version-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="Download Latest Version">
+<a href="https://pragal.itch.io/zenix">
+  <img src="https://img.shields.io/badge/Download-Get%20AllWebApps-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="Download AllWebApps">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/v/release/PragalBhandari/AllWebApps?style=flat-square&label=Version" alt="Latest version">
-<img src="https://img.shields.io/github/downloads/PragalBhandari/AllWebApps/total?style=flat-square&label=Downloads" alt="Total downloads">
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Downloads-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Available on itch.io">
 
 </div>
 
@@ -30,43 +30,45 @@ AllWebApps provides a simple way to save your favorite websites and open them di
 - **Multiple websites** — Save and manage multiple website links.
 - **Built-in browser** — Open websites without switching between separate browser tabs.
 - **Simple management** — Keep your saved websites organized.
-- **Update notifications** — Check for new app versions and download updates from GitHub.
+- **Update notifications** — Check for new app versions and download updates.
 
 ## Download
 
-Get the latest version of AllWebApps below.
+Get AllWebApps from its official itch.io page.
 
 <div align="center">
 
 ### Ready to get started?
 
-<a href="https://github.com/PragalBhandari/AllWebApps/releases/latest">
-  <img src="https://img.shields.io/badge/Download%20for%20Android-Get%20APK-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+<a href="https://pragal.itch.io/zenix">
+  <img src="https://img.shields.io/badge/Get%20AllWebApps-Download%20for%20Android-5865F2?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
 </a>
 
-<br>
+<br><br>
 
-Downloads are provided through GitHub Releases.
+Downloads are hosted on itch.io.
 
 </div>
 
 ## Installation
 
-1. Download the latest APK from the Releases page.
-2. Open the downloaded APK on your Android device.
-3. Allow installation from that source if Android asks.
-4. Follow the installation instructions.
+1. Visit the [official download page](https://pragal.itch.io/zenix).
+2. Follow the access instructions on the page.
+3. Download the latest APK.
+4. Open the APK on your Android device.
+5. Allow installation from that source if Android asks.
+6. As this is built from scratch by myself, play protect might ask you to scan the app. You can proceed with scanning and installing it.
+7. Follow the installation instructions and enjoy the app.
 
 ## Updates
 
-AllWebApps can check for newer versions published on GitHub. When an update is available, you can choose to visit the Releases page and download it.
+AllWebApps checks for newer versions using version information hosted in this repository.
+
+When an update is available, the app directs you to the official itch.io page, where you can access the latest build.
 
 ## Disclaimer
 
-AllWebApps is an independent application. Websites opened through the app remain subject to their respective owners' terms and policies.
-
----
-
+AllWebApps is an independent application. Websites accessed through the app remain subject to their respective owners' terms and policies. AllWebApps does not claim ownership of third-party websites, content, or trademarks.
 
 ## Copyright
 
@@ -76,7 +78,10 @@ AllWebApps, including its original design, branding, and original code, is owned
 
 Unauthorized copying, redistribution, modification, or republishing of the original work is prohibited without prior permission.
 
-Third-party websites, content, trademarks, and other materials accessed through the application remain the property of their respective owners.
+Third-party components and materials remain subject to their respective licences and ownership rights.
+
+---
+
 <div align="center">
 
 **AllWebApps** · Made for Android
