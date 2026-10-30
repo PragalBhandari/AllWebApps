@@ -67,11 +67,6 @@ AllWebApps is an independent application. Websites opened through the app remain
 
 ---
 
-<div align="center">
-
-**AllWebApps** · Made for Android
-
-</div>
 
 ## Copyright
 
@@ -82,3 +77,8 @@ AllWebApps, including its original design, branding, and original code, is owned
 Unauthorized copying, redistribution, modification, or republishing of the original work is prohibited without prior permission.
 
 Third-party websites, content, trademarks, and other materials accessed through the application remain the property of their respective owners.
+<div align="center">
+
+**AllWebApps** · Made for Android
+
+</div>
