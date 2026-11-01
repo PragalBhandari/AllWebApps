@@ -5,5 +5,5 @@
   "updateType": "soft",
   "downloadUrl": "https://pragal.itch.io/zenix",
   "footerName": "Made with love by PB Teams • Zenix (AllWebApps)",
-  "releaseNotes": "New features and updates for performance stability."
+  "releaseNotes": " - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Dynamic homepage and branding updates\n• General performance fixes"
 }
