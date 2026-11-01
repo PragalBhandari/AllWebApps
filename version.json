@@ -4,5 +4,6 @@
   "minRequiredVersionCode": 2,
   "updateType": "soft",
   "downloadUrl": "https://pragal.itch.io/zenix",
+  "footerName": "Made with love by PB Teams • Zenix (AllWebApps)",
   "releaseNotes": "New features and updates for performance stability."
 }
