@@ -2,8 +2,8 @@
   "versionCode": 3,
   "versionName": "1.22.0",
   "minRequiredVersionCode": 2,
-  "updateType": "soft",
+  "updateType": "hard",
   "downloadUrl": "https://pragal.itch.io/zenix",
   "footerName": "Made with love by PB Teams • Zenix (AllWebApps)",
-  "releaseNotes": " - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Dynamic homepage and branding updates\n• General performance fixes"
+  "releaseNotes": " - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Dynamic homepage and branding updates\n - General performance fixes"
 }
