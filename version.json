@@ -6,5 +6,15 @@
   "downloadUrl": "https://pragal.itch.io/zenix",
   "footerName": "Made with ❤️ • Zenix",
   "releaseNotes": " - Added critical security fix for ad blocker\n - Updated homepage\n - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Improved error handling parameters\n - General performance fixes",
-  "sitenotify": "This is the first update of the site. Enjoyy <br> Team ICAI MCQ"
+  "sitenotifyId": "icai-launch-1",
+  "sitenotifyTag": "NEW",
+  "sitenotifyDate": "NOV 21",
+  "sitenotifyTitle": "ICAI MCQ is live",
+  "sitenotify": "We’ve added a cache resolver to ensure seamless browsing across the site. Enjoy!<br><br><b>— Developer</b>",
+  "sitenotifyButtons": [
+    {
+      "label": "Join Discord",
+      "url": "https://discord.com/invite/example"
+    }
+  ]
 }
