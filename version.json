@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "2.66.0",
-  "minRequiredVersionCode": 5,
+  "minRequiredVersionCode": 6,
   "updateType": "soft",
   "downloadUrl": "https://pragal.itch.io/zenix",
   "footerName": "Made with ❤️ • Zenix",
