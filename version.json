@@ -5,7 +5,7 @@
   "updateType": "soft",
   "downloadUrl": "https://pragal.itch.io/zenix",
   "footerName": "Made with ❤️ • Zenix",
-  "releaseNotes": " - Added critical security fix for ad blocker\n - Updated homepage\n - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Improved error handling parameters\n - General performance fixes",
+  "releaseNotes": " - Added critical security fix for ad blocker\n - Updated animation\n - Refactored menu to a full-screen layout\n - Added custom URL exception editor\n - Improved error handling parameters\n - General performance fixes",
   "sitenotifyId": "icai-launch-1",
   "sitenotifyTag": "NEW",
   "sitenotifyDate": "NOV 21",
